@@ -3,7 +3,7 @@ Repository to list down projects I need to make and technologies I need to learn
 
 <h3>Technologies I need to learn</h3>
 <ul>
-  <li>jUnit</li>
+  <li>jUnit 5</li>
   <li>Mockito & PowerMockito</li>
   <li>Spring & Hibernate</li>
   <li>Apache Ant</li>
