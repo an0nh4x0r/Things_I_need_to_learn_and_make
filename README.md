@@ -6,9 +6,12 @@ Repository to list down projects I need to make and technologies I need to learn
   <li>jUnit</li>
   <li>Mockito & PowerMockito</li>
   <li>Spring & Hibernate</li>
+  <li>Apache Ant</li>
+  <li>Apache Maven</li>
 </ul>
 
 <h3>Projects I need to make</h3>
 <ul>
-  <li>Front to back web application in Angular 8 and Spring Hibernate</li>
+  <li>Front to back web application in Angular 8 and Spring Hibernate with CI/CD and version control</li>
+  <li>Multithreading based application in java using executor framework</li>
 </ul>
