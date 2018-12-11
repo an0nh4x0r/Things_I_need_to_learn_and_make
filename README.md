@@ -12,6 +12,6 @@ Repository to list down projects I need to make and technologies I need to learn
 
 <h3>Projects I need to make</h3>
 <ul>
-  <li>Front to back web application in Angular(web components) and Spring Hibernate with CI/CD and version control</li>
+  <li>Front to back web application in Angular(web components) and Spring Hibernate with Gradle, CI/CD and version control</li>
   <li>Multithreading based application in java using executor framework</li>
 </ul>
